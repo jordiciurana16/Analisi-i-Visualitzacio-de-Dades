@@ -1,0 +1,715 @@
+{
+    "artists": [
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/50Gz3aUc4gTUXQYskqIWza"
+            },
+            "followers": {
+                "href": null,
+                "total": 1595
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/50Gz3aUc4gTUXQYskqIWza",
+            "id": "50Gz3aUc4gTUXQYskqIWza",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb05fece5f9613d3e5b2e066e7",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517405fece5f9613d3e5b2e066e7",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17805fece5f9613d3e5b2e066e7",
+                    "width": 160
+                }
+            ],
+            "name": "roserona",
+            "popularity": 13,
+            "type": "artist",
+            "uri": "spotify:artist:50Gz3aUc4gTUXQYskqIWza"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0du3FPmKtQ8vfsmGYVzdFY"
+            },
+            "followers": {
+                "href": null,
+                "total": 1723
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0du3FPmKtQ8vfsmGYVzdFY",
+            "id": "0du3FPmKtQ8vfsmGYVzdFY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebdcc2d41e7011b7c8dbbb248c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174dcc2d41e7011b7c8dbbb248c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178dcc2d41e7011b7c8dbbb248c",
+                    "width": 160
+                }
+            ],
+            "name": "Massaviu",
+            "popularity": 14,
+            "type": "artist",
+            "uri": "spotify:artist:0du3FPmKtQ8vfsmGYVzdFY"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/40qrXwBvQ93tL5ondgFXzE"
+            },
+            "followers": {
+                "href": null,
+                "total": 2745
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/40qrXwBvQ93tL5ondgFXzE",
+            "id": "40qrXwBvQ93tL5ondgFXzE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb2272d0e20cd80f154733bfc8",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051742272d0e20cd80f154733bfc8",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1782272d0e20cd80f154733bfc8",
+                    "width": 160
+                }
+            ],
+            "name": "Ariox",
+            "popularity": 25,
+            "type": "artist",
+            "uri": "spotify:artist:40qrXwBvQ93tL5ondgFXzE"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/37sDYqqodoEv0XbJxCSLSK"
+            },
+            "followers": {
+                "href": null,
+                "total": 3377
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/37sDYqqodoEv0XbJxCSLSK",
+            "id": "37sDYqqodoEv0XbJxCSLSK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb330f82b4a73f6f5a0d51bc36",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174330f82b4a73f6f5a0d51bc36",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178330f82b4a73f6f5a0d51bc36",
+                    "width": 160
+                }
+            ],
+            "name": "Ven'nus",
+            "popularity": 28,
+            "type": "artist",
+            "uri": "spotify:artist:37sDYqqodoEv0XbJxCSLSK"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6"
+            },
+            "followers": {
+                "href": null,
+                "total": 1824
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7kvpnHcyn0RxXpUgEk8ov6",
+            "id": "7kvpnHcyn0RxXpUgEk8ov6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb3e13da3e0260cab41be305db",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051743e13da3e0260cab41be305db",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1783e13da3e0260cab41be305db",
+                    "width": 160
+                }
+            ],
+            "name": "xicu",
+            "popularity": 23,
+            "type": "artist",
+            "uri": "spotify:artist:7kvpnHcyn0RxXpUgEk8ov6"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VUidb50jCH78EzrGpAVyj"
+            },
+            "followers": {
+                "href": null,
+                "total": 1624
+            },
+            "genres": [
+                "indie catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3VUidb50jCH78EzrGpAVyj",
+            "id": "3VUidb50jCH78EzrGpAVyj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb97732e7fbdcd88eaed35da2a",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517497732e7fbdcd88eaed35da2a",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17897732e7fbdcd88eaed35da2a",
+                    "width": 160
+                }
+            ],
+            "name": "miquel",
+            "popularity": 18,
+            "type": "artist",
+            "uri": "spotify:artist:3VUidb50jCH78EzrGpAVyj"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+            },
+            "followers": {
+                "href": null,
+                "total": 6138
+            },
+            "genres": [
+                "indie catala",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2QYudLHQwV6MDxWpZZtMNO",
+            "id": "2QYudLHQwV6MDxWpZZtMNO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb1f19ebbb9a333e7655049090",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051741f19ebbb9a333e7655049090",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1781f19ebbb9a333e7655049090",
+                    "width": 160
+                }
+            ],
+            "name": "Maria Jaume",
+            "popularity": 32,
+            "type": "artist",
+            "uri": "spotify:artist:2QYudLHQwV6MDxWpZZtMNO"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5As0zzJ7LIpJ5dt7AsM0Dx"
+            },
+            "followers": {
+                "href": null,
+                "total": 1598
+            },
+            "genres": [],
+            "href": "https://api.spotify.com/v1/artists/5As0zzJ7LIpJ5dt7AsM0Dx",
+            "id": "5As0zzJ7LIpJ5dt7AsM0Dx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb69ad3a051995a4a4912eacd7",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517469ad3a051995a4a4912eacd7",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17869ad3a051995a4a4912eacd7",
+                    "width": 160
+                }
+            ],
+            "name": "Caldo",
+            "popularity": 17,
+            "type": "artist",
+            "uri": "spotify:artist:5As0zzJ7LIpJ5dt7AsM0Dx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3XROpF1yIcXOcMjDkswghI"
+            },
+            "followers": {
+                "href": null,
+                "total": 5533
+            },
+            "genres": [
+                "indie catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3XROpF1yIcXOcMjDkswghI",
+            "id": "3XROpF1yIcXOcMjDkswghI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb900358d11eccddfca635d3ba",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174900358d11eccddfca635d3ba",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178900358d11eccddfca635d3ba",
+                    "width": 160
+                }
+            ],
+            "name": "MARIA HEIN",
+            "popularity": 32,
+            "type": "artist",
+            "uri": "spotify:artist:3XROpF1yIcXOcMjDkswghI"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO"
+            },
+            "followers": {
+                "href": null,
+                "total": 1888
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/4Wfi7bsHCX2jfKgYvwl4gO",
+            "id": "4Wfi7bsHCX2jfKgYvwl4gO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb85344ee1f51638e2404cd7cf",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517485344ee1f51638e2404cd7cf",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17885344ee1f51638e2404cd7cf",
+                    "width": 160
+                }
+            ],
+            "name": "Igl\u00fa",
+            "popularity": 24,
+            "type": "artist",
+            "uri": "spotify:artist:4Wfi7bsHCX2jfKgYvwl4gO"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0M6k9ahckv10ACmoT6IIbS"
+            },
+            "followers": {
+                "href": null,
+                "total": 3861
+            },
+            "genres": [
+                "indie catala",
+                "musica catalana"
+            ],
+            "href": "https://api.spotify.com/v1/artists/0M6k9ahckv10ACmoT6IIbS",
+            "id": "0M6k9ahckv10ACmoT6IIbS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb50f1df548a11dcd00cfc0bf2",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517450f1df548a11dcd00cfc0bf2",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17850f1df548a11dcd00cfc0bf2",
+                    "width": 160
+                }
+            ],
+            "name": "Al\u00b7l\u00e8rgiques al pol\u00b7len",
+            "popularity": 26,
+            "type": "artist",
+            "uri": "spotify:artist:0M6k9ahckv10ACmoT6IIbS"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2VLAEUc8hJ7R6EPktTBFhx"
+            },
+            "followers": {
+                "href": null,
+                "total": 4421
+            },
+            "genres": [
+                "indie catala",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2VLAEUc8hJ7R6EPktTBFhx",
+            "id": "2VLAEUc8hJ7R6EPktTBFhx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebdc3dfc59417f85432b96d9dd",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174dc3dfc59417f85432b96d9dd",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178dc3dfc59417f85432b96d9dd",
+                    "width": 160
+                }
+            ],
+            "name": "Jo Jet i Maria Ribot",
+            "popularity": 21,
+            "type": "artist",
+            "uri": "spotify:artist:2VLAEUc8hJ7R6EPktTBFhx"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6KVNkE8MHfH6Wv8b4qEq8n"
+            },
+            "followers": {
+                "href": null,
+                "total": 1956
+            },
+            "genres": [
+                "indie catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/6KVNkE8MHfH6Wv8b4qEq8n",
+            "id": "6KVNkE8MHfH6Wv8b4qEq8n",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb5bcb8fdb96354c63b8cfedc3",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051745bcb8fdb96354c63b8cfedc3",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1785bcb8fdb96354c63b8cfedc3",
+                    "width": 160
+                }
+            ],
+            "name": "Re\u00efna",
+            "popularity": 22,
+            "type": "artist",
+            "uri": "spotify:artist:6KVNkE8MHfH6Wv8b4qEq8n"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7DyiuN7G1T9S6l5BCvVNXI"
+            },
+            "followers": {
+                "href": null,
+                "total": 2806
+            },
+            "genres": [
+                "trap catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/7DyiuN7G1T9S6l5BCvVNXI",
+            "id": "7DyiuN7G1T9S6l5BCvVNXI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebfbef83ec3d44014620a5e9f1",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174fbef83ec3d44014620a5e9f1",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178fbef83ec3d44014620a5e9f1",
+                    "width": 160
+                }
+            ],
+            "name": "Lluc",
+            "popularity": 28,
+            "type": "artist",
+            "uri": "spotify:artist:7DyiuN7G1T9S6l5BCvVNXI"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FK84XWtXp55baSqyvKQcV"
+            },
+            "followers": {
+                "href": null,
+                "total": 1027
+            },
+            "genres": [],
+            "href": "https://api.spotify.com/v1/artists/2FK84XWtXp55baSqyvKQcV",
+            "id": "2FK84XWtXp55baSqyvKQcV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb77a99470cae294c18eb53c35",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab6761610000517477a99470cae294c18eb53c35",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f17877a99470cae294c18eb53c35",
+                    "width": 160
+                }
+            ],
+            "name": "Moli",
+            "popularity": 7,
+            "type": "artist",
+            "uri": "spotify:artist:2FK84XWtXp55baSqyvKQcV"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6DxleFQGGR0UPogCnAYQm7"
+            },
+            "followers": {
+                "href": null,
+                "total": 718
+            },
+            "genres": [],
+            "href": "https://api.spotify.com/v1/artists/6DxleFQGGR0UPogCnAYQm7",
+            "id": "6DxleFQGGR0UPogCnAYQm7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb3fc7bcded947a4acd085c89c",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051743fc7bcded947a4acd085c89c",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1783fc7bcded947a4acd085c89c",
+                    "width": 160
+                }
+            ],
+            "name": "bert bert",
+            "popularity": 20,
+            "type": "artist",
+            "uri": "spotify:artist:6DxleFQGGR0UPogCnAYQm7"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3rD7bBI9zkYhu62o79tWe6"
+            },
+            "followers": {
+                "href": null,
+                "total": 6115
+            },
+            "genres": [
+                "indie catala",
+                "musica mallorquina",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3rD7bBI9zkYhu62o79tWe6",
+            "id": "3rD7bBI9zkYhu62o79tWe6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5eb3989fa71c4e506195cb0c8a8",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab676161000051743989fa71c4e506195cb0c8a8",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f1783989fa71c4e506195cb0c8a8",
+                    "width": 160
+                }
+            ],
+            "name": "Da Souza",
+            "popularity": 27,
+            "type": "artist",
+            "uri": "spotify:artist:3rD7bBI9zkYhu62o79tWe6"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2e9wKql4wZPFzTfNgpBa9s"
+            },
+            "followers": {
+                "href": null,
+                "total": 26135
+            },
+            "genres": [
+                "cantautor catala",
+                "indie catala",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/2e9wKql4wZPFzTfNgpBa9s",
+            "id": "2e9wKql4wZPFzTfNgpBa9s",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebb83c7033dc216407d71a8559",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174b83c7033dc216407d71a8559",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178b83c7033dc216407d71a8559",
+                    "width": 160
+                }
+            ],
+            "name": "Pau Vallv\u00e9",
+            "popularity": 39,
+            "type": "artist",
+            "uri": "spotify:artist:2e9wKql4wZPFzTfNgpBa9s"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+            },
+            "followers": {
+                "href": null,
+                "total": 18788
+            },
+            "genres": [
+                "cantautor catala",
+                "indie catala",
+                "musica catalana",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/3hi1Ewhqpzl1jO2GemGmv6",
+            "id": "3hi1Ewhqpzl1jO2GemGmv6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebba13a7826a4150806d841b2e",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174ba13a7826a4150806d841b2e",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178ba13a7826a4150806d841b2e",
+                    "width": 160
+                }
+            ],
+            "name": "Ginest\u00e0",
+            "popularity": 43,
+            "type": "artist",
+            "uri": "spotify:artist:3hi1Ewhqpzl1jO2GemGmv6"
+        },
+        {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5"
+            },
+            "followers": {
+                "href": null,
+                "total": 7117
+            },
+            "genres": [
+                "indie catala",
+                "rock catala"
+            ],
+            "href": "https://api.spotify.com/v1/artists/1hOwyBjBzD71G76KApDEy5",
+            "id": "1hOwyBjBzD71G76KApDEy5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab6761610000e5ebf5121591f3f59e241dbae982",
+                    "width": 640
+                },
+                {
+                    "height": 320,
+                    "url": "https://i.scdn.co/image/ab67616100005174f5121591f3f59e241dbae982",
+                    "width": 320
+                },
+                {
+                    "height": 160,
+                    "url": "https://i.scdn.co/image/ab6761610000f178f5121591f3f59e241dbae982",
+                    "width": 160
+                }
+            ],
+            "name": "La Ludwig Band",
+            "popularity": 34,
+            "type": "artist",
+            "uri": "spotify:artist:1hOwyBjBzD71G76KApDEy5"
+        }
+    ]
+}
